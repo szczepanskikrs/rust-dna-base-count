@@ -1,6 +1,10 @@
 Simple CLI tool for ordering of DNA bases from given string
+Build:
+```
+cargo build --release
+``` 
 
-Sample usage:
+Sample usage of binary:
 ```
 ./dna-basecount --sequence
 CGTAAAAAATTACAACGTCCTTTGGCTATCTCTTAAACTCCTGCTAAATG\
